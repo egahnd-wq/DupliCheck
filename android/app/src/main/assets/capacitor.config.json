@@ -1,0 +1,8 @@
+{
+	"appId": "com.hendrand.duplicheck",
+	"appName": "DupliCheck",
+	"webDir": "out",
+	"android": {
+		"backgroundColor": "#EEF2F7"
+	}
+}

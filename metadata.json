@@ -1,0 +1,6 @@
+{
+  "name": "Perapi Kontak VCF",
+  "description": "Deteksi nama dan nomor HP ganda dari file VCF, gabungkan satu nama dengan beda nomor, dan hasilkan satu file VCF yang rapi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
